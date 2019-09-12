@@ -48,3 +48,7 @@ https://assistant.google.com/services/a/uid/00000045a105f958?hl=en
 <b>this app is technical computer quiz this much fun for me at the time of creatin </b>
 
 <b>Hope you Enjoy this apps on your smartphones(in google assistant) because google assistant does not support to desktop OS or not siri also  Stay tuned For more Updates</b>
+
+## Author
+
+* **Krishna kakade**  - [krishnakakade1999](https://github.com/krishnakakade1999)
