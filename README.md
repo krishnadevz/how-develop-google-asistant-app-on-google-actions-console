@@ -51,4 +51,4 @@ https://assistant.google.com/services/a/uid/00000045a105f958?hl=en
 
 ## Author
 
-* **Krishna kakade**  - [krishnakakade1999](https://github.com/krishnakakade1999)
+* **Krishna kakade**  - [krishnadevz](https://github.com/krishnadevz)
